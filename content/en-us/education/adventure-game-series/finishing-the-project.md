@@ -3,6 +3,7 @@ title: Finishing the Project
 description: Part of the Adventure Game Series in Roblox. Finish the project by adjusting scripts.
 next:
 prev: /education/adventure-game-series/buying-upgrades
+
 ---
 
 Your experience is almost ready for others to play! Before sharing, you'll make some small changes to scripts, build out your world a bit more, and then play-test your experience.
